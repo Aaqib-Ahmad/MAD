@@ -13,8 +13,10 @@
     >Configure Scopes [optional] <br/>
     >Add Test Users <br/>
     >Summary of settings <br/>
-8)Click on create credentials
-    >Create OAuth client ID
-    >Visit this link to create OAuth client ID for an Expo app https://docs.expo.dev/versions/latest/sdk/google/
-9)Copy Api Key and Client ID generated to the config file in the project
-10)Get Calendar ID from your google calendars and paste it in config file 
+8)Click on create credentials <br/>
+    >Create OAuth client ID <br/>
+    >Visit this link to create OAuth client ID for an Expo app https://docs.expo.dev/versions/latest/sdk/google/ <br/>
+9)Copy Api Key and Client ID generated to the config file in the project <br/>
+
+# Getting Calendar ID
+1)Get Calendar ID from your google calendars and paste it in config file <br/>
