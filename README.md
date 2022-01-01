@@ -1,5 +1,3 @@
-1)Create expo project <br/>
-2)Install libraries <br/>
 
 # Google developers console setup
 
@@ -18,5 +16,11 @@
     >Visit this link to create OAuth client ID for an Expo app https://docs.expo.dev/versions/latest/sdk/google/ <br/>
 9)Copy Api Key and Client ID generated to the config file in the project <br/>
 
-# Getting Calendar ID
+# Getting Calendar ID <br/>
 1)Get Calendar ID from your google calendars and paste it in config file <br/>
+
+# Setting up the project
+1)Install all of the libraries <br/>
+
+
+Note :: You can use "yarn" to install libraries
