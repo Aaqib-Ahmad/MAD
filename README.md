@@ -8,4 +8,9 @@
 4)Create a new project <br/>
 5)Enable Google Calendar Api. <br/>
 6)Click on Create credentials --> create Api Key.   <br/>
-7)Click on Create credentials --> Create OAuth client Id. -->
+7)Click on Create credentials <br/>
+    >Create OAuth client Id. <br/>
+    >Configure Consent Screen
+    >Configure Scopes [optional]
+    >Add Test Users
+    >Summary of settings
