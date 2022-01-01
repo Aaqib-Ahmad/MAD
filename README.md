@@ -7,4 +7,5 @@
 3)Open Google Developer's console (https://console.developers.google.com/) <br/>
 4)Create a new project <br/>
 5)Enable Google Calendar Api. <br/>
-6)Click on Create credentials: create Api Key. create OAuth client Id. <br/>
+6)Click on Create credentials --> create Api Key.   <br/>
+7)Click on Create credentials --> Create OAuth client Id. -->
