@@ -33,22 +33,27 @@
 8)Click on create credentials <br/>
 ![Screenshot (49)_LI](https://user-images.githubusercontent.com/82023206/147850146-a42e88de-789e-4141-9ecb-e92d9dbb3472.jpg)
 
-    >To get OAuth ID <br/>
+   To get OAuth ID <br/>
     Download and install Opensll at this link ::<br/>
-    https://slproweb.com/products/Win32OpenSSL.html <br/>
+  
+  https://slproweb.com/products/Win32OpenSSL.html <br/>
     If you face any difficulties watch this video<br/>
-    https://www.youtube.com/watch?v=jSkQ27sTto0
-    ![open](https://user-images.githubusercontent.com/82023206/149928330-34685ac2-8ef7-42ac-95ff-60388cf97198.jpg) <br/>
+    https://www.youtube.com/watch?v=jSkQ27sTto0 <br/>
+   
+   ![open](https://user-images.githubusercontent.com/82023206/149928330-34685ac2-8ef7-42ac-95ff-60388cf97198.jpg) <br/>
     
-    >After installation
-    1:Setup Environment variable [Add new Path > C:\Program Files\OpenSSL-Win64\bin
-    2:Open cmd and run openssl command
-    2:
+  After installation
     
-    >Create OAuth client ID <br/>
-    >Visit this link to create OAuth client ID for an Expo app https://docs.expo.dev/versions/latest/sdk/google/ <br/>
-![Screenshot (57)](https://user-images.githubusercontent.com/82023206/147850154-379839d1-fcb3-4d84-aa37-73f6ec3f11e4.png)
+  1:Setup Environment variable [Add new Path > C:\Program Files\OpenSSL-Win64\bin ] 
+  2:Open cmd and run these commands shown in the picture below 
+  
+    
+   Create OAuth client ID <br/>
+    Visit this link to create OAuth client ID for an Expo app https://docs.expo.dev/versions/latest/sdk/google/ <br/>
+    
 ![Screenshot (58)](https://user-images.githubusercontent.com/82023206/147850156-27d3db92-f602-4638-9146-cd57babcbbc1.png)
+
+![Screenshot (57)](https://user-images.githubusercontent.com/82023206/147850154-379839d1-fcb3-4d84-aa37-73f6ec3f11e4.png)
 ![Screenshot (59)](https://user-images.githubusercontent.com/82023206/147850157-4b9295f2-48d7-4094-b6f7-b953d528f2d6.png)
 
 9)Copy Api Key and Client ID generated to the config file in the project <br/>
