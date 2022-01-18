@@ -33,6 +33,18 @@
 8)Click on create credentials <br/>
 ![Screenshot (49)_LI](https://user-images.githubusercontent.com/82023206/147850146-a42e88de-789e-4141-9ecb-e92d9dbb3472.jpg)
 
+    >To get OAuth ID <br/>
+    Download and install Opensll at this link ::<br/>
+    https://slproweb.com/products/Win32OpenSSL.html <br/>
+    If you face any difficulties watch this video<br/>
+    https://www.youtube.com/watch?v=jSkQ27sTto0
+    ![open](https://user-images.githubusercontent.com/82023206/149928330-34685ac2-8ef7-42ac-95ff-60388cf97198.jpg) <br/>
+    
+    >After installation
+    1:Setup Environment variable [Add new Path > C:\Program Files\OpenSSL-Win64\bin
+    2:Open cmd and run openssl command
+    2:
+    
     >Create OAuth client ID <br/>
     >Visit this link to create OAuth client ID for an Expo app https://docs.expo.dev/versions/latest/sdk/google/ <br/>
 ![Screenshot (57)](https://user-images.githubusercontent.com/82023206/147850154-379839d1-fcb3-4d84-aa37-73f6ec3f11e4.png)
